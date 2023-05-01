@@ -10,9 +10,7 @@ This is an ESP32-S3 development board created as a learning exercise in KiCad. I
 
 ## Notes
 
-Either ESP32-S3-WROOM-1 (PCB antenna) or ESP32-S3-WROOM-1U (IPEX antenna connector) are suitable for these boards.
-
-The voltage regulator was chosen specifically for its low quiescent current. If you cannot source it, look for SOT23-5 LDO regulators with 3.3V output voltage and at least 500mA output current.
+To be added
 
 ## Libraries
 
